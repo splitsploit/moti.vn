@@ -1,0 +1,25 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/dbdata
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.idea/dataSources.local.xml
+.idea/dataSources.xml
+.idea/php.xml
+.idea/project.iml
+.idea/workspace.xml
+.idea/codeStyles/codeStyleConfig.xml
+.idea/runConfigurations/debug.xml
+ApexSQL/ApexSQL Database Power Tools for VS Code/Log/Visual Studio Code1.50.0.log
+*.pem
+*.sql
+.env.*
+database/.account
+.bash/mysqlbackup.sh
+.bash/mysqlrestore.sh
